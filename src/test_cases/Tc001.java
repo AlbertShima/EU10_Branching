@@ -1,7 +1,11 @@
 package test_cases;
 
 public class Tc001 {
-    //testing some thing
+    public static void main(String[] args) {
+        //testing some thing
 
-    // more testing
+        // more testing
+
+        // negative testing
+    }
 }
